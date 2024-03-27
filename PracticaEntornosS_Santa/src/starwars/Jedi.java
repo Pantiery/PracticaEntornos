@@ -114,6 +114,7 @@ public class Jedi {
 	 * @param sith. Este parámetro es un objeto Sith al que el Jedi le infringe un
 	 *              daño.
 	 * @deprecated Creado metodo nuevo, mejorado llamado atacarNuevo.
+	 * 
 	 */
 	// METODO ATACAR
 	public void atacar(Sith sith) {
